@@ -1,0 +1,31 @@
+body
+{
+	background:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url(../../images/login.jpg);
+	background-size:cover;
+	background-position:center;
+}
+.login-box
+{
+	max-width:700px;
+	float:none;
+	margin: 150px auto;
+	margin-left:350px;
+}
+.login-left
+{
+	background:#fff;
+	padding:40px;
+}
+.login-right
+{
+	background:#fff;
+	padding:40px;
+}
+.form-control
+{
+	background-color:transparent !important;
+}
+button
+{
+	text-decoration:none;
+}
